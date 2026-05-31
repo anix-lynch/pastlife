@@ -25,6 +25,8 @@ Note: Chearavanont family office — Forbes #1 wealthiest family SEA. Avg deal s
 
 → Represented on stage at official Bangkok Beta / Thailand 4.0 government launch alongside Deputy PM, ICT Minister, NIA, SIPA, True, MQDC, CISCO, Huawei, IBM, Microsoft, Samsung, 500 Startups, and 30+ government and private sector leaders
 
+→ Originated Bangkok Beta framework and assembled the coalition to execute it: convened Dr. Panachit Kittipanya-Ngam (True Corporation) and Peng T. Ong (co-founder Match.com, Monk's Hill Ventures) at Thailand's National Science, Technology and Innovation Policy Office, June 2015. Framework entered national whitepaper. Became Thailand 4.0. Dr. Panachit carried it institutionally. [Proof: public photo posted by Peng T. Ong naming Anix Lynch, June 29, 2015]
+
 **PROOF ASSETS:**
 
 → [BKK_Beta_DOB.pdf](assets/BKK_Beta_DOB.pdf)
@@ -32,6 +34,7 @@ Note: Chearavanont family office — Forbes #1 wealthiest family SEA. Avg deal s
 → [Email to government — Sept 2015](assets/email-sept-2015.png)
 → [2025 Milestones slide](assets/bangkok-beta-milestones.png)
 → [Bangkok Beta government launch — on stage](assets/bangkok-beta-govt-launch.png)
+→ [STI Policy Office — coalition meeting, June 2015](assets/sti-policy-office-coalition-2015.png)
 
 **RECEIPT — CONFIRMED DELIVERY TO GOVERNMENT:**
 
