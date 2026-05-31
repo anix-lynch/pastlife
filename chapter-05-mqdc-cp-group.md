@@ -23,15 +23,47 @@ Note: Chearavanont family office — Forbes #1 wealthiest family SEA. Avg deal s
 
 → Year-by-year forecast 2015–2025 (@anixlynch, written 2015):
 
-  2015: Thai lead agency formed by alliance of private sectors ✓ / Bangkok Beta MVP ✓
-  2016: Full year-round accelerators ✓ / World class university in BKK ✓ / Top 10 ease of doing business ✓ / Top 15 ease of starting business ✓ / Better ranked than Malaysia ✓ / Diaspora mentors return ✓
-  2017: VC-friendly matching scheme launches ✓ (became Expara/GSB — Anix executed it) / Free English + STEM + Growth Hacking courses ✓ / Thai entrepreneur visa ranks on Google ✓ / >100 startups per year ✓
-  2018: Futuristic coworking downtown BKK ✓ (True Digital Park — Anix originated it) / Corporate VCs as alternatives to in-house R&D ✓ (SCB10X, PTT, Kasikorn all launched) / >$200M Fund of Funds (partial ✓ — $50M public + $100M+ private)
-  2019: Entrepreneurship desirable career choice ✓ / High volume quality startups ✓ / Active trade sale deals >$200M ✓ / Acquihire of Thai startup by global co ✓ (Expedia)
-  2020: High-profile investors move to Thailand ✓ / Thai first unicorn ✓ (Bitkub) / >100K English-speaking engineers ✓ / Large companies set R&D centers in Bangkok ✓
-  2025: Thai unicorns become MNCs ✓ (3 unicorns today) / Center of AgriTech/Mobile/SEA Tech ✓ / "Google of Food" in progress
+```
+2015  Thai lead agency formed by alliance of private sectors ✓
+      Bangkok Beta MVP ✓
 
-  Score: 18–20 of 26 materialized. Author: @anixlynch. [Proof: assets/bangkok-beta-milestones.png]
+2016  Full year-round accelerators ✓
+      World class university in BKK ✓
+      Top 10 ease of doing business ✓
+      Top 15 ease of starting business ✓
+      Better ranked than Malaysia ✓
+      Diaspora/veteran mentors return ✓
+
+2017  Thailand launches VC-friendly matching scheme ✓
+        (became Expara/GSB — Anix executed it)
+      Free English, STEM, Growth Hacking courses ✓
+      "Thai entrepreneur visa" ranks high on Google ✓
+      >100 startups per year ✓
+
+2018  Futuristic coworking downtown BKK ✓
+        (True Digital Park — Anix originated it)
+      Corporate VCs as alternatives to in-house R&D ✓
+        (SCB10X, PTT, Kasikorn all launched)
+      >$200M Fund of Funds (partial ✓ — $50M public + $100M+ private)
+
+2019  Entrepreneurship desirable career choice ✓
+      High volume quality startups ✓
+      Active trade sale deals >$200M ✓
+      Acquihire of Thai startup by global co ✓ (Expedia)
+
+2020  High-profile investors move to Thailand ✓
+      Thai first unicorn ✓ (Bitkub)
+      Over 100K English-speaking engineers ✓
+      Large companies set R&D centers in Bangkok ✓
+
+2025  Thai unicorns become MNCs ✓ (3 unicorns today)
+      Center of AgriTech/Mobile/SEA Tech ✓
+      Birth of "Google of Food" (in progress)
+
+SCORE: 18–20 of 26 materialized
+Author: @anixlynch
+Proof: assets/bangkok-beta-milestones.png
+```
 
 → Represented on stage at official Bangkok Beta / Thailand 4.0 government launch alongside Deputy PM, ICT Minister, NIA, SIPA, True, MQDC, CISCO, Huawei, IBM, Microsoft, Samsung, 500 Startups, and 30+ government and private sector leaders
 
