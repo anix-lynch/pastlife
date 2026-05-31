@@ -66,8 +66,10 @@ Recommendation: Option C for now. assets/ already has the best receipts.
 
 ### Headline (220 chars max):
 ```
-Senior GenAI Engineer | Agentic Systems & RAG | Bangkok Beta Author — Thailand 4.0 Framework | Former GP, Thailand's First Sovereign VC Fund | Chicago Booth MBA
+Senior GenAI Engineer | RAG · Agentic Systems · LangGraph | Python · GCP · dbt | AI Data Engineer
 ```
+NOTE: Bangkok Beta / Thailand 4.0 / Expara → goes in About only, NOT headline.
+Headline = ATS keywords. About = the wow layer after they're already interested.
 
 ### About (2,600 chars max) — paste from agent-context.md ONE PARAGRAPH BRIEF +
 expand with key anchors:
