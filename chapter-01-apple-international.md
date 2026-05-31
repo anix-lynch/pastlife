@@ -29,4 +29,4 @@ Title: Strategic Planning
 &nbsp;&nbsp;&nbsp;58,000 sqm facility in Bangkok  
 &nbsp;&nbsp;&nbsp;Secured 2nd largest market share  
 &nbsp;&nbsp;&nbsp;year 4 of penetration  
-&nbsp;&nbsp;&nbsp;60,000+ cars auctioned/month  
+&nbsp;&nbsp;&nbsp;60,000+ cars auctioned/month

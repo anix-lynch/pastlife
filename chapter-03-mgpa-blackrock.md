@@ -35,4 +35,4 @@ Note: World's largest PE RE firm 2011
 &nbsp;&nbsp;&nbsp;Kameido (Grade B Office, $35M)  
 
 → Hold/sell analyses for quarterly  
-&nbsp;&nbsp;&nbsp;board + IC meetings  
+&nbsp;&nbsp;&nbsp;board + IC meetings
