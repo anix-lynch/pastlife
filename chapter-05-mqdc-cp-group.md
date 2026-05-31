@@ -35,6 +35,7 @@ Note: Chearavanont family office — Forbes #1 wealthiest family SEA. Avg deal s
 → [2025 Milestones slide](assets/bangkok-beta-milestones.png)
 → [Bangkok Beta government launch — on stage](assets/bangkok-beta-govt-launch.png)
 → [STI Policy Office — coalition meeting, June 2015](assets/sti-policy-office-coalition-2015.png)
+→ [Peng T. Ong: "Breakfast with the planners of the Thai digital economy" — June 20, 2015](assets/thai-digital-planners-breakfast-2015.png)
 
 **RECEIPT — CONFIRMED DELIVERY TO GOVERNMENT:**
 
