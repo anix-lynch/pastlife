@@ -13,6 +13,8 @@ Note: Chearavanont family office — Forbes #1 wealthiest family SEA. Avg deal s
 
 → Authored Bangkok Beta (2015) — national digital economy blueprint later incorporated into Thailand 4.0. Informed creation of: Ministry of Digital Economy, National VC matching initiatives, Public sector fund-of-funds programs
 
+→ Submitted Bangkok Beta framework directly to Manoo Ordeedolchest, President of SIPA and member of PM Prayut's Digital Economy Working Committee (Sept 2015, timestamped). Framework became Thailand 4.0. 18–20 of 26 proposals materialized.
+
 → Modeled GDP impact + capital formation requirements (~$395M+) to support 1–5 tech unicorns over 8 years. 17 of 26 strategic initiatives implemented within 3 years including: Startup tax waivers, Smart Visa framework, One Stop Shop regulatory reform, True Digital Park, Corporate CVC wave, Thailand top-3 SEA ecosystem
 
 → Policy alignment unlocked $560M+ in public innovation funding + 3 point improvement Thailand World Bank Ease of Doing Business
