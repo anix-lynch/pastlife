@@ -17,7 +17,22 @@ Note: Chearavanont family office — Forbes #1 wealthiest family SEA. Avg deal s
 
 → Policy alignment unlocked $560M+ in public innovation funding + 3 point improvement Thailand World Bank Ease of Doing Business
 
+→ Authored 10-year milestone roadmap "Visualize Thai New Economy 2025" (@anixlynch, 2015 — slide on file). Year-by-year forecast 2015–2025: 18–20 of 26 milestones materialized including Thai first unicorn, True Digital Park, national CVC wave, VC matching scheme, and Thailand's rise to top-3 SEA startup ecosystem
+
 → Forecasted year-by-year 2015–2025: Corporate VCs (Kasikorn, Bangkok Bank, PTT, KCG all launched CVC arms ✓) / Thai first unicorn (Bitkub ✓) / Three unicorns by 2025 (3 unicorns ✓) / Coworking hub downtown BKK (TDP ✓) / Free STEM courses (✓) / Top-10 ease of doing business (✓)
+
+**PROOF ASSETS:**
+
+→ [BKK_Beta_DOB.pdf](assets/BKK_Beta_DOB.pdf)
+→ [startupsthailand.xlsx](assets/startupsthailand.xlsx)
+→ [Email to government — Sept 2015](assets/email-sept-2015.png)
+→ [2025 Milestones slide](assets/bangkok-beta-milestones.png)
+
+**RECEIPT — CONFIRMED DELIVERY TO GOVERNMENT:**
+
+Sent: Sep 1, 2015 — Anix → Sunit + Manoo Ordeedolchest (President, SIPA — Software Industry Promotion Agency; Member, Digital Economy Working Committee under Deputy PM, reporting to PM Prayut Chan-o-cha). Confirmed received Sep 2, 2015. Attachments: startupsthailand.xlsx + BKK Beta_DOB.pdf. Timestamped. Sent. Confirmed.
+
+Manoo's committee → became Thailand 4.0. Bangkok Beta went directly into the hands of the people who wrote national policy. This isn't "I influenced Thailand." This is "I briefed the government committee that built Thailand 4.0."
 
 **WOW FACTS — DEALS:**
 
