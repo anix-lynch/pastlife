@@ -22,4 +22,8 @@ Title: Strategic Planning
 
 → Led 14 staff in HK, China, Indonesia accounting team → consolidated 10-K, 10-Q for Japan FSA
 
-→ Led JV with Thanachart Scotia Bank: Thailand's first car auction "Apple Auto-Auction" Japanese technology licensing 58,000 sqm facility in Bangkok Secured 2nd largest market share year 4 of penetration 60,000+ cars auctioned/month
+→ Led JV with Thanachart Scotia Bank: launched Thailand's first car auction "Apple Auto-Auction"
+
+→ Japanese technology licensing — 58,000 sqm facility in Bangkok
+
+→ Secured 2nd largest market share by year 4 — 60,000+ cars auctioned/month
