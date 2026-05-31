@@ -65,6 +65,9 @@ Author: @anixlynch
 Proof: assets/bangkok-beta-milestones.png
 ```
 
+📎 **Source document:** [BKK_Beta_DOB.pdf](assets/BKK_Beta_DOB.pdf) — the original 2015 framework with Anix Lynch byline
+📎 **Milestone slide:** [bangkok-beta-milestones.png](assets/bangkok-beta-milestones.png) — @anixlynch watermark visible
+
 → Represented on stage at official Bangkok Beta / Thailand 4.0 government launch alongside Deputy PM, ICT Minister, NIA, SIPA, True, MQDC, CISCO, Huawei, IBM, Microsoft, Samsung, 500 Startups, and 30+ government and private sector leaders
 
 → Originated Bangkok Beta framework and assembled the coalition to execute it: convened Dr. Panachit Kittipanya-Ngam (True Corporation) and Peng T. Ong (co-founder Match.com, Monk's Hill Ventures) at Thailand's National Science, Technology and Innovation Policy Office, June 2015. Framework entered national whitepaper. Became Thailand 4.0. Dr. Panachit carried it institutionally. [Proof: public photo posted by Peng T. Ong naming Anix Lynch, June 29, 2015]
