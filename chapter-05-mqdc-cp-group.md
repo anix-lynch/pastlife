@@ -23,12 +23,15 @@ Note: Chearavanont family office — Forbes #1 wealthiest family SEA. Avg deal s
 
 → Forecasted year-by-year 2015–2025: Corporate VCs (Kasikorn, Bangkok Bank, PTT, KCG all launched CVC arms ✓) / Thai first unicorn (Bitkub ✓) / Three unicorns by 2025 (3 unicorns ✓) / Coworking hub downtown BKK (TDP ✓) / Free STEM courses (✓) / Top-10 ease of doing business (✓)
 
+→ Represented on stage at official Bangkok Beta / Thailand 4.0 government launch alongside Deputy PM, ICT Minister, NIA, SIPA, True, MQDC, CISCO, Huawei, IBM, Microsoft, Samsung, 500 Startups, and 30+ government and private sector leaders
+
 **PROOF ASSETS:**
 
 → [BKK_Beta_DOB.pdf](assets/BKK_Beta_DOB.pdf)
 → [startupsthailand.xlsx](assets/startupsthailand.xlsx)
 → [Email to government — Sept 2015](assets/email-sept-2015.png)
 → [2025 Milestones slide](assets/bangkok-beta-milestones.png)
+→ [Bangkok Beta government launch — on stage](assets/bangkok-beta-govt-launch.png)
 
 **RECEIPT — CONFIRMED DELIVERY TO GOVERNMENT:**
 
