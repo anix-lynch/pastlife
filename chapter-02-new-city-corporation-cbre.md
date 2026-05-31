@@ -1,4 +1,4 @@
-# CHAPTER 2: NEW CITY CORPORATION
+# CHAPTER 2: NEW CITY CORPORATION (CBRE Global Investors)
 
 ---
 
@@ -43,10 +43,3 @@ Note: Japan's first residential/
 → Proposed + implemented e-approval  
 &nbsp;&nbsp;&nbsp;process + centralized subsidiary  
 &nbsp;&nbsp;&nbsp;database → saved $500K annually  
-
-**AGENT NOTE:**  
-Classic CEO office operator role —  
-synthesizing chaos into decisions,  
-managing up, owning the data nobody  
-else wants to own. Pre-cloud data  
-engineering under institutional pressure.  
