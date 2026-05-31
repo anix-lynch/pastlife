@@ -14,32 +14,12 @@ Note: Japan's first residential/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;formed by CBRE Global Investors  
 
 **WHAT YOU ACTUALLY DID:**  
-→ Supported institutional fundraising,  
-&nbsp;&nbsp;&nbsp;multi-asset portfolio analytics, and  
-&nbsp;&nbsp;&nbsp;cross-border investment data systems  
-&nbsp;&nbsp;&nbsp;within $800M–$1.6B AUM RE platform  
+→ Supported institutional fundraising, multi-asset portfolio analytics, and cross-border investment data systems within $800M–$1.6B AUM RE platform
 
-→ Led production of 50+ PPMs and  
-&nbsp;&nbsp;&nbsp;institutional pitch books supporting  
-&nbsp;&nbsp;&nbsp;$20M–$50M fund vehicles  
-&nbsp;&nbsp;&nbsp;Consolidated multi-asset datasets  
-&nbsp;&nbsp;&nbsp;Coordinated cross-border investor  
-&nbsp;&nbsp;&nbsp;outreach: Credit Suisse + Middle  
-&nbsp;&nbsp;&nbsp;East sovereign funds  
+→ Led production of 50+ PPMs and institutional pitch books supporting $20M–$50M fund vehicles Consolidated multi-asset datasets Coordinated cross-border investor outreach: Credit Suisse + Middle East sovereign funds
 
-→ Supported quarterly reporting for  
-&nbsp;&nbsp;&nbsp;$150M AUM REIT — reconciled  
-&nbsp;&nbsp;&nbsp;asset-level performance data across  
-&nbsp;&nbsp;&nbsp;residential, hospitality, office  
-&nbsp;&nbsp;&nbsp;portfolios during volatile market  
+→ Supported quarterly reporting for $150M AUM REIT — reconciled asset-level performance data across residential, hospitality, office portfolios during volatile market
 
-→ Developed structured due diligence  
-&nbsp;&nbsp;&nbsp;and downside-risk models for $30M+  
-&nbsp;&nbsp;&nbsp;acquisition pipelines — aggregated  
-&nbsp;&nbsp;&nbsp;fragmented financial + operational  
-&nbsp;&nbsp;&nbsp;inputs to accelerate executive  
-&nbsp;&nbsp;&nbsp;decision-making  
+→ Developed structured due diligence and downside-risk models for $30M+ acquisition pipelines — aggregated fragmented financial + operational inputs to accelerate executive decision-making
 
-→ Proposed + implemented e-approval  
-&nbsp;&nbsp;&nbsp;process + centralized subsidiary  
-&nbsp;&nbsp;&nbsp;database → saved $500K annually  
+→ Proposed + implemented e-approval process + centralized subsidiary database → saved $500K annually

@@ -12,27 +12,14 @@ Note: World's largest PE RE firm 2011
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$11B AUM globally → exited BlackRock  
 
 **WHAT YOU ACTUALLY DID:**  
-→ Underwrote 10–15 portfolios annually  
-&nbsp;&nbsp;&nbsp;across ~$2B AUM Asia–Europe funds  
-&nbsp;&nbsp;&nbsp;Modeled $300–500M projected asset value  
+→ Underwrote 10–15 portfolios annually across ~$2B AUM Asia–Europe funds Modeled $300–500M projected asset value
 
-→ Reconciled multi-source performance  
-&nbsp;&nbsp;&nbsp;datasets: identified 15–25%  
-&nbsp;&nbsp;&nbsp;underwriting risk variances across  
-&nbsp;&nbsp;&nbsp;~$2B AUM funds  
+→ Reconciled multi-source performance datasets: identified 15–25% underwriting risk variances across ~$2B AUM funds
 
-→ Built structured underwriting tools:  
-&nbsp;&nbsp;&nbsp;reduced modeling errors ~25%  
-&nbsp;&nbsp;&nbsp;accelerated diligence 3 weeks → 10 days  
+→ Built structured underwriting tools: reduced modeling errors ~25% accelerated diligence 3 weeks → 10 days
 
-→ Individual assets: $30M–$116M  
-&nbsp;&nbsp;&nbsp;Avg IRR 25%+, EM 2x  
+→ Individual assets: $30M–$116M Avg IRR 25%+, EM 2x
 
-→ Specific transactions:  
-&nbsp;&nbsp;&nbsp;Storia Shinagawa Tokyo  
-&nbsp;&nbsp;&nbsp;(202 units, $99.7M)  
-&nbsp;&nbsp;&nbsp;Shirokanedai (Grade A Office, $116M)  
-&nbsp;&nbsp;&nbsp;Kameido (Grade B Office, $35M)  
+→ Specific transactions: Storia Shinagawa Tokyo (202 units, $99.7M) Shirokanedai (Grade A Office, $116M) Kameido (Grade B Office, $35M)
 
-→ Hold/sell analyses for quarterly  
-&nbsp;&nbsp;&nbsp;board + IC meetings
+→ Hold/sell analyses for quarterly board + IC meetings
